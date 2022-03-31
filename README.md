@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @therinMody
-- 👀 I’m interested in work
-- 🌱 I’m currently learning how to solve problems
-- 💞️ I’m looking to collaborate on anything I can get my hands on
+- 👀 I’m currently interested in cloud infrastructure, react and node applications, and database adminstration.
+- 🌱 I’m currently learning how to solve problems.
+- 💞️ I’m looking to collaborate on cloud based web applications.
 
 <!---
 therinMody/therinMody is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
