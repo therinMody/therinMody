@@ -1,7 +1,5 @@
 ## This is the way
 
-Contractor.
-
 Automation and Cloud Analyst.
 
 https://www.therinmody.com/
